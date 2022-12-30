@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
